@@ -1,0 +1,52 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Utilizei a ferramenta angular CLI para criar um projeto Angular",
+      "autoria": "Curso Angular",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Conheci a estrutura de um componente Angular (HTML, CSS e TS)",
+      "autoria": "Curso Angular",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Entendi como ocorre o fluxo de dados no componente",
+      "autoria": "Curso Angular",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Utilizei rotas para adicionar navegação dinâmica entre as telas da aplicação",
+      "autoria": "Curso Angular",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Aprendi o que são e como utilizar algumas das principais diretivas do Angular",
+      "autoria": "Curso Angular",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Compreendi o que são services e como utilizar injeção de dependências",
+      "autoria": "Curso Angular",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "conteudo": "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu.",
+      "autoria": "Google",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Realizei a comunicação cliente-servidor através do HTTPClient para fazer requisição AJAX (Get, Post, Put e Delete)",
+      "autoria": "Curso Angular",
+      "modelo": "modelo1",
+      "id": 8
+    }
+  ]
+}
